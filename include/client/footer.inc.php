@@ -6,7 +6,7 @@
     </div>
 <div id="overlay"></div>
 <div id="loading">
-    <h4><?php echo __('Please Wait!');?></h4>
+    <h4><?php echo __('Please Wait!!!!!!!!');?></h4>
     <p><?php echo __('Please wait... it will take a second!');?></p>
 </div>
 <?php
